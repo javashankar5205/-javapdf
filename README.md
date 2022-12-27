@@ -1,5 +1,4 @@
-# -javapdf[Uploading 6.pdf…]()
-lo
+
 [Uploading 5.pdf…]()
 [Uploading 3.pdf…]()
 [Uploading 7.pdf…]()
